@@ -1,79 +1,76 @@
-<h1 align="center">Hi, I'm Koeurng Vireak 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  Web Development Student | Frontend & Backend Learner | Building Real-World Projects
-</h3>
+# Koeurng Vireak
 
-<p align="center">
-  I am an IT student focused on building modern, secure, and user-friendly web applications.
-  I enjoy working with frontend interfaces, backend APIs, databases, and production-ready system design.
+### Full-Stack Web Development Student  
+Building modern, secure, and scalable web applications
+
+<p>
+  <a href="mailto:koeurngvireak@bb.bbu.edu.kh">
+    <img src="https://img.shields.io/badge/Email-koeurngvireak%40bb.bbu.edu.kh-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://github.com/KoeurngVireakk">
+    <img src="https://img.shields.io/badge/GitHub-KoeurngVireakk-black?style=flat-square&logo=github" />
+  </a>
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 IT Student passionate about **Web Development & Cybersecurity**
-- 💻 Currently building projects with **ReactJS, Spring Boot, Laravel, MySQL**
-- 🌱 Learning more about **REST APIs, Authentication, Payment Integration, Cloud Hosting, and Security**
-- 🛡️ Interested in secure web systems: **JWT, WAF, Rate Limiting, SQL Injection Protection**
-- 📌 Goal: Become a professional **Full-Stack Web Developer**
-- 📫 Contact: **koeurngvireak@bb.bbu.edu.kh**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## Professional Summary
 
-### Frontend
+I am an Information Technology student focused on full-stack web development, backend systems, and secure application design.  
+My work focuses on building practical web applications with clean user interfaces, structured backend APIs, relational databases, authentication, and production-ready architecture.
+
+I am currently improving my skills in modern frontend development, REST API design, database modeling, web security, and cloud deployment.
+
+---
+
+## Core Focus Areas
+
+- Full-Stack Web Application Development
+- Frontend UI/UX Implementation
+- Backend API Design and Integration
+- Database Design and Optimization
+- Authentication and Authorization
+- Web Application Security
+- Payment and Notification System Integration
+- Dashboard and Management System Development
+
+---
+
+## Technology Stack
+
+### Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
 </p>
 
-### Backend
+### Backend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs" />
 </p>
 
-### Database & Tools
+### Database, Tools & Platform
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode,idea,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode,idea,postman,docker,cloudflare" />
 </p>
 
 ---
 
-## 📌 Featured Project Areas
-
-### 🌐 Web Applications
-Building responsive websites with clean UI, smooth UX, and organized project structure.
-
-### 🔐 Secure Backend Systems
-Working with authentication, authorization, REST APIs, validation, and secure database access.
-
-### 💳 Payment & Automation
-Exploring payment integrations such as KHQR / ABA PayWay concepts, webhook flow, and Telegram bot notification systems.
-
-### 📊 Dashboard & Management Systems
-Developing admin dashboards, reporting pages, role-based access, and CRUD-based systems.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoeurngVireakk&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoeurngVireakk&layout=compact&theme=default&hide_border=true" height="165" />
-</p>
-
----
-
-## 🌱 Currently Learning
+## Current Development Interests
 
 ```txt
 Full-Stack Web Development
-REST API Design
-Spring Boot Security
-ReactJS + TypeScript
+ReactJS and TypeScript
+Spring Boot REST APIs
 Laravel API Development
 MySQL Database Design
-Cloudflare & Web Hosting
+Authentication and Authorization
+Payment Gateway Integration
+Cloudflare and Web Deployment
 Web Application Security
