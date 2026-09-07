@@ -1,0 +1,48 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v7
+
+      - name: Generate light and dark snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github-light&color_snake=0969DA
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=7C3AED
+
+      - name: Commit generated assets
+        shell: bash
+        run: |
+          mkdir -p assets
+          cp dist/github-snake.svg assets/github-snake.svg
+          cp dist/github-snake-dark.svg assets/github-snake-dark.svg
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-snake.svg assets/github-snake-dark.svg
+
+          if git diff --cached --quiet; then
+            echo "Contribution snake is already up to date."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh contribution snake"
+          git push
