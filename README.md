@@ -1,18 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0969DA,100:7C3AED&height=230&section=header&text=Koeurng%20Vireak&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20IT%20Student%20%E2%80%A2%20Security-Focused%20Builder&descAlignY=55&descSize=17" alt="Koeurng Vireak Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0969DA,100:7C3AED&height=235&section=header&text=Koeurng%20Vireak&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineering%20%E2%80%A2%20Backend%20%E2%80%A2%20Security%20%E2%80%A2%20AI&descAlignY=55&descSize=18" alt="Koeurng Vireak"/>
 
-<a href="mailto:koeurngvireak@bb.bbu.edu.kh">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email"/>
-</a>
-<a href="https://github.com/KoeurngVireakk">
-  <img src="https://img.shields.io/badge/GitHub-KoeurngVireakk-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub"/>
-</a>
-<img src="https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%AD%20Cambodia-Developer-03256C?style=for-the-badge&labelColor=111111" alt="Cambodia"/>
+<a href="mailto:koeurngvireak@bb.bbu.edu.kh"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email"/></a>
+<a href="https://github.com/KoeurngVireakk"><img src="https://img.shields.io/badge/GitHub-KoeurngVireakk-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%AD%20Cambodia-Final--Year%20IT%20Student-0969DA?style=for-the-badge&labelColor=111111" alt="Cambodia"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+secure+full-stack+applications;React+%2B+Spring+Boot+%2B+MySQL;Python+%2B+Computer+Vision+%2B+Desktop+Apps;Exploring+Cybersecurity+%26+AI-assisted+Engineering;Turning+ideas+into+clean%2C+working+systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+secure+full-stack+systems;Designing+APIs%2C+data+flows+%26+real+product+workflows;Exploring+application+security+%26+AI-assisted+engineering;Build+%E2%86%92+Understand+%E2%86%92+Secure+%E2%86%92+Improve" alt="Typing animation"/>
 
 </div>
 
@@ -20,125 +16,52 @@
 
 ## 👨‍💻 About Me
 
-> **Building software with an engineering mindset — from requirements to deployment.**
+I'm **Koeurng Vireak**, a final-year **Information Technology student from Cambodia 🇰🇭** focused on **full-stack software engineering, backend systems, application security, and AI-assisted development**.
 
-I'm **Koeurng Vireak**, a final-year **Information Technology student from Cambodia 🇰🇭** focused on **Full-Stack Development**, **Backend Engineering**, and **Application Security**.
+I like working beyond the UI layer: requirements, architecture, API contracts, data modeling, authentication, testing, deployment, and the failure cases in between.
 
-I enjoy working across the entire development lifecycle:
-
-```text
-Idea
-  ↓
-Requirements & System Analysis
-  ↓
-UI / UX
-  ↓
-Frontend
-  ↓
-REST API
-  ↓
-Authentication & Authorization
-  ↓
-Database
-  ↓
-Security
-  ↓
-Testing
-  ↓
-Deployment
-```
-
-My goal is not simply to make applications **work** — I want to understand **why they work, how they fail, how they scale, and how they can be secured**.
-
-🌱 **Always learning** · 🧠 **Always analyzing** · 🛠️ **Always building**
+> **I don't just want software to work — I want to understand why it works, how it can fail, and how to make it better.**
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Selected Engineering Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💌 E-Invitation Platform
+### 🎯 Face Attendance Studio
 
-A modern Khmer digital invitation platform designed around real-world wedding workflows.
+**Local-first face-recognition attendance system** for schools, teams, and small organizations.
 
-**Engineering focus**
+`Python` · `PySide6` · `InsightFace` · `OpenCV` · `ONNX Runtime` · `SQLite`
 
-- React + TypeScript
-- Spring Boot REST API
-- MySQL
-- JWT Authentication
-- RSVP & Guest Management
-- Payment Integration
-- Telegram Notifications
-- Admin Dashboard & Analytics
-- Cloudflare Security
+**Engineering highlights**
+- Explicit Check-In / Check-Out state
+- Schedules, policies, holidays, and audit history
+- Local biometric storage by default
+- Camera diagnostics and demo mode
+- Optional NVIDIA GPU acceleration
+
+[**View Repository →**](https://github.com/KoeurngVireakk/face_attendance_recognition)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🍽️ E-Menu SaaS
 
-QR-powered digital menu platform for restaurants, cafés, clubs, and shops.
+**QR-based digital menu platform** for restaurants, cafés, clubs, and shops.
 
-**Engineering focus**
+`React` · `Laravel API` · `Tailwind CSS` · `MySQL` · `PWA`
 
-- React
-- Laravel REST API
-- Tailwind CSS
-- MySQL
-- PWA
-- Offline menu caching
-- Customer/Admin interfaces
-- Payment workflows
+**Engineering highlights**
+- Customer and admin interfaces
+- PWA installability
+- Offline-aware public menu caching
+- Authenticated/admin API responses kept out of cache
+- Payment-oriented workflow design
 
-🔗 [View Repository](https://github.com/KoeurngVireakk/e-menu-saas)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Face Attendance Studio
-
-Local-first face-recognition attendance system for schools, teams, and organizations.
-
-**Engineering focus**
-
-- Python
-- PySide6
-- InsightFace
-- OpenCV
-- ONNX Runtime
-- SQLite
-- Check-In / Check-Out
-- Attendance Policies
-- Local biometric storage
-- Optional NVIDIA acceleration
-
-🔗 [View Repository](https://github.com/KoeurngVireakk/face_attendance_recognition)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 Security & Systems Labs
-
-Hands-on experimentation with networking, infrastructure, and application security.
-
-**Current interests**
-
-- Linux / Kali Linux
-- Web Security
-- JWT / OAuth
-- Cloudflare
-- Vulnerability Assessment
-- REST API Security
-- Networking
-- Docker
-- Deployment Architecture
-- Secure System Design
+[**View Repository →**](https://github.com/KoeurngVireakk/e-menu-saas)
 
 </td>
 </tr>
@@ -146,96 +69,85 @@ Hands-on experimentation with networking, infrastructure, and application securi
 
 ---
 
-## 🧠 Engineering Focus
+## 💌 Currently Building — E-Invitation Platform
 
-<div align="center">
-
-| 🏗️ Architecture | 🔐 Security | 🎨 Experience | 🚀 Delivery |
-|:---:|:---:|:---:|:---:|
-| System Analysis | Authentication | Responsive UI | Git & GitHub |
-| REST APIs | Authorization | UX Thinking | Docker |
-| Database Design | Input Validation | Motion UI | Cloudflare |
-| Modular Design | API Security | Accessibility | Deployment |
-| Scalability | Secure Data Flow | Mobile-first | Testing |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,flutter,dart&theme=dark" alt="Frontend Skills"/>
-</div>
-
-### ⚙️ Backend
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,php,laravel,nodejs&theme=dark" alt="Backend Skills"/>
-</div>
-
-### 🗄️ Database
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="Database Skills"/>
-</div>
-
-<div align="center">
-
-`MySQL` · `Microsoft SQL Server` · `Oracle Database` · `PostgreSQL` · `SQLite`
-
-</div>
-
-### 🛡️ Security & Infrastructure
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,git,github,bash&theme=dark" alt="Security and Infrastructure"/>
-</div>
-
-<div align="center">
-
-`Linux / Kali Linux` · `Docker` · `Cloudflare` · `JWT` · `OAuth` · `REST API Security` · `Networking` · `WAF` · `Rate Limiting`
-
-</div>
-
-### 🧰 Development Environment
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github,docker,linux&theme=dark" alt="Development Tools"/>
-
-<br/><br/>
-
-`VS Code` · `IntelliJ IDEA` · `Postman` · `Swagger / OpenAPI` · `Docker` · `GitHub` · `Kali Linux` · `Windows`
-
-</div>
-
----
-
-## 🤖 AI-Assisted Engineering
-
-I use AI as an **engineering accelerator**, not as a replacement for understanding.
+A Khmer-focused digital invitation platform designed around real wedding workflows: invitations, guests, RSVP, media, payments, notifications, analytics, and administration.
 
 ```text
-Requirements Analysis
-        ↓
-Architecture Planning
-        ↓
-AI-Assisted Implementation
-        ↓
-Documentation Verification
-        ↓
-Code Review
-        ↓
-Testing
-        ↓
-Security Review
-        ↓
-Refactoring
+Guest / Admin
+      │
+      ▼
+React + TypeScript
+      │  HTTPS
+      ▼
+Cloudflare
+WAF · Rate Limiting
+      │
+      ▼
+Spring Boot REST API
+JWT · RBAC · Validation
+      │
+   ┌──┴───────────────┐
+   ▼                  ▼
+ MySQL           Integrations
+                  ├─ Payment
+                  └─ Telegram
 ```
 
-Current interests include **LLM-assisted software engineering**, **prompt engineering**, **AI agents**, **code analysis**, **automated debugging**, **UX/UI engineering assistance**, **backend architecture assistance**, and **computer vision**.
+**What I care about here:** clean API boundaries, secure authentication, relational data modeling, reliable payment state, responsive UX, and production-minded deployment.
+
+---
+
+## 🛠️ Engineering Stack
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,tailwind,java,spring,python,php,laravel,cs,dotnet,mysql,postgres,sqlite,docker,linux,cloudflare,git,github,postman&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,tailwind,java,spring,python,php,laravel,cs,dotnet,mysql,postgres,sqlite,docker,linux,cloudflare,git,github,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,java,spring,python,php,laravel,cs,dotnet,mysql,postgres,sqlite,docker,linux,cloudflare,git,github,postman&theme=dark" alt="Technology stack" />
+</picture>
+
+</div>
+
+| Area | Technologies & Focus |
+|---|---|
+| **Frontend** | React, TypeScript, Tailwind CSS, Flutter, responsive UI/UX |
+| **Backend** | Spring Boot, Laravel, .NET/C#, Python, REST APIs |
+| **Data** | MySQL, SQL Server, Oracle, PostgreSQL, SQLite, relational modeling |
+| **Security** | JWT, OAuth, API security, validation, WAF, rate limiting |
+| **Infrastructure** | Docker, Linux/Kali Linux, Cloudflare, Git/GitHub, deployment |
+| **AI / CV** | LLM-assisted engineering, AI agents, InsightFace, OpenCV |
+
+---
+
+## 🧠 How I Approach Software
+
+```text
+Problem
+  ↓
+Requirements & Constraints
+  ↓
+Architecture & Data Model
+  ↓
+API / UI Contracts
+  ↓
+Implementation
+  ↓
+Testing & Security Review
+  ↓
+Deployment
+  ↓
+Measure · Learn · Improve
+```
+
+**Principles I try to follow:**
+
+- 🏗️ **Design before complexity** — choose architecture that fits the actual problem.
+- 🔐 **Security as a system property** — authentication alone is not enough.
+- 🧪 **Test important behavior** — especially state transitions, permissions, and failure paths.
+- 📚 **Verify assumptions** — use official documentation, real implementations, and reproducible tests.
+- 🤖 **Use AI as an accelerator** — for planning, review, debugging, and research; not as a substitute for understanding.
 
 ---
 
@@ -243,65 +155,40 @@ Current interests include **LLM-assisted software engineering**, **prompt engine
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KoeurngVireakk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoeurngVireakk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KoeurngVireakk&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=KoeurngVireakk&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KoeurngVireakk&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KoeurngVireakk&layout=compact&hide_border=true&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KoeurngVireakk&layout=compact&hide_border=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoeurngVireakk&layout=compact&hide_border=true&theme=github_dark" alt="Repository language statistics" />
+</picture>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KoeurngVireakk&bg_color=0D1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+### 🐍 Contribution Flow
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="./assets/github-snake.svg" />
+</picture>
 
 </div>
 
-> GitHub language statistics represent repository code composition and should not be interpreted as a direct measurement of proficiency.
+<sub>Language cards reflect code found in repositories; they are not a measurement of proficiency.</sub>
 
 ---
 
-## 🎯 Current Learning Roadmap
+## 🎯 Current Focus
 
-```text
-                     SOFTWARE ENGINEERING
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-          FRONTEND          BACKEND         SECURITY
-             │                │                │
-      React / Flutter    Spring Boot       Web Security
-      TypeScript         REST APIs         API Security
-      UI / UX            Architecture      VAPT
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                           DEVOPS
-                              │
-                      Docker / Linux
-                      Cloudflare
-                      CI/CD
-                      Deployment
-                              │
-                              ▼
-                       AI ENGINEERING
-                              │
-                        LLM Workflows
-                        AI Agents
-                        Automation
-```
-
----
-
-## 💡 How I Think About Software
-
-> **A good system should not only look good. It should be understandable, maintainable, secure, testable, and useful.**
-
-When approaching a project, I usually think about:
-
-1. **What problem are we solving?**
-2. **Who is actually going to use it?**
-3. **What architecture fits the problem?**
-4. **How should the data be modeled?**
-5. **Where are the trust boundaries?**
-6. **How can the system fail?**
-7. **How will we test it?**
-8. **How will we deploy and maintain it?**
+- Building the **E-Invitation** platform with React, Spring Boot, MySQL, authentication, payments, and notifications
+- Going deeper into **backend architecture, REST API design, and database modeling**
+- Improving **application security, Linux, networking, Docker, and Cloudflare deployment**
+- Exploring **AI agents, LLM engineering workflows, automation, and computer vision**
 
 ---
 
@@ -309,25 +196,21 @@ When approaching a project, I usually think about:
 
 <div align="center">
 
-### Interested in software engineering, cybersecurity, AI, or building something useful?
+**Interested in software engineering, cybersecurity, AI, or building useful products?**
 
 <br/>
 
-<a href="mailto:koeurngvireak@bb.bbu.edu.kh">
-<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/KoeurngVireakk">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="mailto:koeurngvireak@bb.bbu.edu.kh"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/KoeurngVireakk"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KoeurngVireakk&label=PROFILE%20VIEWS&color=0969DA&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=KoeurngVireakk&label=PROFILE%20VIEWS&color=0969DA&style=for-the-badge" alt="Profile views"/>
 
 <br/><br/>
 
 ### `Build → Understand → Secure → Improve`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0969DA,100:7C3AED&height=120&section=footer&animation=fadeIn" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0969DA,100:7C3AED&height=115&section=footer&animation=fadeIn" alt="Footer"/>
 
 </div>
