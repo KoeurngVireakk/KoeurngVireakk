@@ -156,15 +156,17 @@ Measure · Learn · Improve
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KoeurngVireakk&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=KoeurngVireakk&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KoeurngVireakk&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-stats-light.svg" />
+  <img width="420" src="./assets/profile-stats-dark.svg" alt="GitHub profile overview" />
 </picture>
 
+<br/><br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KoeurngVireakk&layout=compact&hide_border=true&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KoeurngVireakk&layout=compact&hide_border=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoeurngVireakk&layout=compact&hide_border=true&theme=github_dark" alt="Repository language statistics" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg" />
+  <img width="420" src="./assets/top-languages-dark.svg" alt="Repository language statistics" />
 </picture>
 
 <br/><br/>
@@ -179,7 +181,7 @@ Measure · Learn · Improve
 
 </div>
 
-<sub>Language cards reflect code found in repositories; they are not a measurement of proficiency.</sub>
+<sub>Profile cards are generated daily from GitHub's API. Language percentages reflect code in public, non-fork repositories and are not a measurement of proficiency.</sub>
 
 ---
 
